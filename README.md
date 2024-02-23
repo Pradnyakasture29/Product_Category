@@ -16,3 +16,10 @@ This project aims to develop a RESTful API system using Spring Boot framework, f
 4) PUT - update category by id
 5) DELETE - Delete category by id
 I have done curd operation in this project.
+
+
+Technologies used:A) Use Spring boot
+                  B) Use Rest controller
+                  C) Need DB configuration (Use RDB instead of in-memory)
+                  D) Use annotation based configuration (Not XML).
+                  E) JPA & Hibernate
